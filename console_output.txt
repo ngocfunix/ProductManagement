@@ -1,0 +1,412 @@
+Choose one of this options: 
+Product list:
+1. Load data from file and display
+2. Input & add to the end.
+3. Display data
+4. Save product list to file
+5. Search by ID
+6. Delete by ID
+7. Sort by ID
+8. Convert to Binary
+9. Load to stack and display
+10. Load to queue and display
+0. Exit
+
+Choice = 1
+ID   |  Title     |  Quantity  |  price
+---------------------------------------
+P03  |  Sugar     |        12  |   25.1
+P01  |  Miliket   |        10  |    5.2
+P02  |  Apple     |         5  |    4.3
+P05  |  Rose      |         7  |   15.4
+P07  |  Beer      |        11  |   12.2
+P04  |  Book      |         9  |    5.2
+P06  |  Mango     |        89  |   19.5
+P09  |  Orange    |        91  |   19.9
+P08  |  Pear      |        92  |   18.9
+P10  |  Potato    |        90  |   10.0
+P11  |  Tomato    |        92  |   10.3
+P12  |  Cake      |        93  |   10.5
+p13  |  Water     |        60  |    5.5
+P14  |  Mandarin  |        99  |   10.5
+P15  |  Fruit     |        99  |   10.3
+P16  |  Some      |        91  |   10.5
+P17  |  Onion     |        92  |    3.5
+P18  |  Garlic    |        93  |    9.8
+P19  |  Chicken   |        99  |   19.2
+
+Successfully!
+
+Choose one of this options: 
+Product list:
+1. Load data from file and display
+2. Input & add to the end.
+3. Display data
+4. Save product list to file
+5. Search by ID
+6. Delete by ID
+7. Sort by ID
+8. Convert to Binary
+9. Load to stack and display
+10. Load to queue and display
+0. Exit
+
+Choice = 2
+Input new ID: P20
+Input Product's Name: KFC
+Input Product's quantity: 93
+Input Product's price: 10.5
+
+Sản phẩm đã được thêm vào list!
+
+Choose one of this options: 
+Product list:
+1. Load data from file and display
+2. Input & add to the end.
+3. Display data
+4. Save product list to file
+5. Search by ID
+6. Delete by ID
+7. Sort by ID
+8. Convert to Binary
+9. Load to stack and display
+10. Load to queue and display
+0. Exit
+
+Choice = 3
+ID   |  Title     |  Quantity  |  price
+---------------------------------------
+P03  |  Sugar     |        12  |   25.1
+P01  |  Miliket   |        10  |    5.2
+P02  |  Apple     |         5  |    4.3
+P05  |  Rose      |         7  |   15.4
+P07  |  Beer      |        11  |   12.2
+P04  |  Book      |         9  |    5.2
+P06  |  Mango     |        89  |   19.5
+P09  |  Orange    |        91  |   19.9
+P08  |  Pear      |        92  |   18.9
+P10  |  Potato    |        90  |   10.0
+P11  |  Tomato    |        92  |   10.3
+P12  |  Cake      |        93  |   10.5
+p13  |  Water     |        60  |    5.5
+P14  |  Mandarin  |        99  |   10.5
+P15  |  Fruit     |        99  |   10.3
+P16  |  Some      |        91  |   10.5
+P17  |  Onion     |        92  |    3.5
+P18  |  Garlic    |        93  |    9.8
+P19  |  Chicken   |        99  |   19.2
+P20  |  KFC       |        93  |   10.5
+
+Choose one of this options: 
+Product list:
+1. Load data from file and display
+2. Input & add to the end.
+3. Display data
+4. Save product list to file
+5. Search by ID
+6. Delete by ID
+7. Sort by ID
+8. Convert to Binary
+9. Load to stack and display
+10. Load to queue and display
+0. Exit
+
+Choice = 4
+Successfully write data to the file!
+
+Choose one of this options: 
+Product list:
+1. Load data from file and display
+2. Input & add to the end.
+3. Display data
+4. Save product list to file
+5. Search by ID
+6. Delete by ID
+7. Sort by ID
+8. Convert to Binary
+9. Load to stack and display
+10. Load to queue and display
+0. Exit
+
+Choice = 5
+Input the ID to search: P01
+Result: P01  |  Miliket   |        10  |    5.2
+Choose one of this options: 
+Product list:
+1. Load data from file and display
+2. Input & add to the end.
+3. Display data
+4. Save product list to file
+5. Search by ID
+6. Delete by ID
+7. Sort by ID
+8. Convert to Binary
+9. Load to stack and display
+10. Load to queue and display
+0. Exit
+
+Choice = 6
+Input the bcode to delete: P20
+
+Deleted!
+
+Choose one of this options: 
+Product list:
+1. Load data from file and display
+2. Input & add to the end.
+3. Display data
+4. Save product list to file
+5. Search by ID
+6. Delete by ID
+7. Sort by ID
+8. Convert to Binary
+9. Load to stack and display
+10. Load to queue and display
+0. Exit
+
+Choice = 3
+ID   |  Title     |  Quantity  |  price
+---------------------------------------
+P03  |  Sugar     |        12  |   25.1
+P01  |  Miliket   |        10  |    5.2
+P02  |  Apple     |         5  |    4.3
+P05  |  Rose      |         7  |   15.4
+P07  |  Beer      |        11  |   12.2
+P04  |  Book      |         9  |    5.2
+P06  |  Mango     |        89  |   19.5
+P09  |  Orange    |        91  |   19.9
+P08  |  Pear      |        92  |   18.9
+P10  |  Potato    |        90  |   10.0
+P11  |  Tomato    |        92  |   10.3
+P12  |  Cake      |        93  |   10.5
+p13  |  Water     |        60  |    5.5
+P14  |  Mandarin  |        99  |   10.5
+P15  |  Fruit     |        99  |   10.3
+P16  |  Some      |        91  |   10.5
+P17  |  Onion     |        92  |    3.5
+P18  |  Garlic    |        93  |    9.8
+P19  |  Chicken   |        99  |   19.2
+
+Choose one of this options: 
+Product list:
+1. Load data from file and display
+2. Input & add to the end.
+3. Display data
+4. Save product list to file
+5. Search by ID
+6. Delete by ID
+7. Sort by ID
+8. Convert to Binary
+9. Load to stack and display
+10. Load to queue and display
+0. Exit
+
+Choice = 2
+Input new ID: P20
+Input Product's Name: KFC
+Input Product's quantity: 93
+Input Product's price: 19.0
+
+Sản phẩm đã được thêm vào list!
+
+Choose one of this options: 
+Product list:
+1. Load data from file and display
+2. Input & add to the end.
+3. Display data
+4. Save product list to file
+5. Search by ID
+6. Delete by ID
+7. Sort by ID
+8. Convert to Binary
+9. Load to stack and display
+10. Load to queue and display
+0. Exit
+
+Choice = 3
+ID   |  Title     |  Quantity  |  price
+---------------------------------------
+P03  |  Sugar     |        12  |   25.1
+P01  |  Miliket   |        10  |    5.2
+P02  |  Apple     |         5  |    4.3
+P05  |  Rose      |         7  |   15.4
+P07  |  Beer      |        11  |   12.2
+P04  |  Book      |         9  |    5.2
+P06  |  Mango     |        89  |   19.5
+P09  |  Orange    |        91  |   19.9
+P08  |  Pear      |        92  |   18.9
+P10  |  Potato    |        90  |   10.0
+P11  |  Tomato    |        92  |   10.3
+P12  |  Cake      |        93  |   10.5
+p13  |  Water     |        60  |    5.5
+P14  |  Mandarin  |        99  |   10.5
+P15  |  Fruit     |        99  |   10.3
+P16  |  Some      |        91  |   10.5
+P17  |  Onion     |        92  |    3.5
+P18  |  Garlic    |        93  |    9.8
+P19  |  Chicken   |        99  |   19.2
+P20  |  KFC       |        93  |   19.0
+
+Choose one of this options: 
+Product list:
+1. Load data from file and display
+2. Input & add to the end.
+3. Display data
+4. Save product list to file
+5. Search by ID
+6. Delete by ID
+7. Sort by ID
+8. Convert to Binary
+9. Load to stack and display
+10. Load to queue and display
+0. Exit
+
+Choice = 7
+
+Successfully!
+
+Choose one of this options: 
+Product list:
+1. Load data from file and display
+2. Input & add to the end.
+3. Display data
+4. Save product list to file
+5. Search by ID
+6. Delete by ID
+7. Sort by ID
+8. Convert to Binary
+9. Load to stack and display
+10. Load to queue and display
+0. Exit
+
+Choice = 3
+ID   |  Title     |  Quantity  |  price
+---------------------------------------
+P01  |  Miliket   |        10  |    5.2
+P02  |  Apple     |         5  |    4.3
+P03  |  Sugar     |        12  |   25.1
+P04  |  Book      |         9  |    5.2
+P05  |  Rose      |         7  |   15.4
+P06  |  Mango     |        89  |   19.5
+P07  |  Beer      |        11  |   12.2
+P08  |  Pear      |        92  |   18.9
+P09  |  Orange    |        91  |   19.9
+P10  |  Potato    |        90  |   10.0
+P11  |  Tomato    |        92  |   10.3
+P12  |  Cake      |        93  |   10.5
+P14  |  Mandarin  |        99  |   10.5
+P15  |  Fruit     |        99  |   10.3
+P16  |  Some      |        91  |   10.5
+P17  |  Onion     |        92  |    3.5
+P18  |  Garlic    |        93  |    9.8
+P19  |  Chicken   |        99  |   19.2
+P20  |  KFC       |        93  |   19.0
+p13  |  Water     |        60  |    5.5
+
+Choose one of this options: 
+Product list:
+1. Load data from file and display
+2. Input & add to the end.
+3. Display data
+4. Save product list to file
+5. Search by ID
+6. Delete by ID
+7. Sort by ID
+8. Convert to Binary
+9. Load to stack and display
+10. Load to queue and display
+0. Exit
+
+Choice = 8
+Quantity of first product = 10 => (1010)
+
+Choose one of this options: 
+Product list:
+1. Load data from file and display
+2. Input & add to the end.
+3. Display data
+4. Save product list to file
+5. Search by ID
+6. Delete by ID
+7. Sort by ID
+8. Convert to Binary
+9. Load to stack and display
+10. Load to queue and display
+0. Exit
+
+Choice = 9
+ID   |  Title     |  Quantity  |  price
+---------------------------------------
+P03  |  Sugar     |        12  |   25.1
+P01  |  Miliket   |        10  |    5.2
+P02  |  Apple     |         5  |    4.3
+P05  |  Rose      |         7  |   15.4
+P07  |  Beer      |        11  |   12.2
+P04  |  Book      |         9  |    5.2
+P06  |  Mango     |        89  |   19.5
+P09  |  Orange    |        91  |   19.9
+P08  |  Pear      |        92  |   18.9
+P10  |  Potato    |        90  |   10.0
+P11  |  Tomato    |        92  |   10.3
+P12  |  Cake      |        93  |   10.5
+p13  |  Water     |        60  |    5.5
+P14  |  Mandarin  |        99  |   10.5
+P15  |  Fruit     |        99  |   10.3
+P16  |  Some      |        91  |   10.5
+P17  |  Onion     |        92  |    3.5
+P18  |  Garlic    |        93  |    9.8
+P19  |  Chicken   |        99  |   19.2
+P20  |  KFC       |        93  |   10.5
+Choose one of this options: 
+Product list:
+1. Load data from file and display
+2. Input & add to the end.
+3. Display data
+4. Save product list to file
+5. Search by ID
+6. Delete by ID
+7. Sort by ID
+8. Convert to Binary
+9. Load to stack and display
+10. Load to queue and display
+0. Exit
+
+Choice = 10
+ID   |  Title     |  Quantity  |  price
+---------------------------------------
+P03  |  Sugar     |        12  |   25.1
+P01  |  Miliket   |        10  |    5.2
+P02  |  Apple     |         5  |    4.3
+P05  |  Rose      |         7  |   15.4
+P07  |  Beer      |        11  |   12.2
+P04  |  Book      |         9  |    5.2
+P06  |  Mango     |        89  |   19.5
+P09  |  Orange    |        91  |   19.9
+P08  |  Pear      |        92  |   18.9
+P10  |  Potato    |        90  |   10.0
+P11  |  Tomato    |        92  |   10.3
+P12  |  Cake      |        93  |   10.5
+p13  |  Water     |        60  |    5.5
+P14  |  Mandarin  |        99  |   10.5
+P15  |  Fruit     |        99  |   10.3
+P16  |  Some      |        91  |   10.5
+P17  |  Onion     |        92  |    3.5
+P18  |  Garlic    |        93  |    9.8
+P19  |  Chicken   |        99  |   19.2
+P20  |  KFC       |        93  |   10.5
+Choose one of this options: 
+Product list:
+1. Load data from file and display
+2. Input & add to the end.
+3. Display data
+4. Save product list to file
+5. Search by ID
+6. Delete by ID
+7. Sort by ID
+8. Convert to Binary
+9. Load to stack and display
+10. Load to queue and display
+0. Exit
+
+Choice = 0
+Thanks and goodbye!!!
